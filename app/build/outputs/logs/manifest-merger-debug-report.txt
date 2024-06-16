@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\effec0a28f9ae8bbc28c1a3d2093ec5e\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\6591de0cad8c3f5eadbdf0fe88cc8136\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\f78b232fd09b18252200861a88b55b69\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\betya\.gradle\caches\transforms-3\da39e94b0f0ba336182cebd1e0b834f1\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\fafccb7dcf9b6ccedfb6a66cdfa9de6f\transformed\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\29d88ab1cf18f15cc043e76fd04324a8\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\9a21f6acb36712dac7edf1807eb87a52\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\d1de12bdcf86ec48e152a11074442da3\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\3d542e3babf6bad60401c0e5867eb382\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\0382b1ddfa52fe135241f6e2b2b1741b\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\1715eeec570b990c34ccaa1b7bf407f8\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\656e48d32e85a6c2ae607a0b2b9f6db5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\492989e70df4ce7eecd3dec38fdd8a86\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\832876b40af826f7430bfcb5c9db478c\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\9f3932981a4426c38a70290d55c2a63d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\f6f7062eaa4db3aa4070e42dfc9761e3\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\02d099f999e83a385ed4ce5300136033\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\fd813baf15dada295e54894e81e80eea\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\eec0af2011cc1fc3c18c89caf57b72ca\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\1528379d2a43582d7bee83e7903c9130\transformed\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\677cd13cdcd94f94609557ca1a8b182d\transformed\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\085bb44f289beb91488da2ae5c5052f7\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\16215222eaa93d7fb227d1c681926e80\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\f984cfb72730b0fa5fc78650c64a54b9\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\9772215b0fd6d90a04270271a7baf92e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\f81e7bd30697b8b625ee8e6f86d8a423\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\17da243e9af8be3297a4ff5b74a30f3b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\82789f4ee1187a22f807af5bf4ca2fe6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\5dac6132421ec65c8d69fa4033f973b1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\a40a63588715de069c3acbd0b01e9c66\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\19eff2f8dd0c0db011c11af597dbd73f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\c3b275f233a5206977e4ed051d72afe6\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\376a6260a84af5c00dd3da7dda7a07c4\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\effec0a28f9ae8bbc28c1a3d2093ec5e\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\effec0a28f9ae8bbc28c1a3d2093ec5e\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\betya\.gradle\caches\transforms-3\da39e94b0f0ba336182cebd1e0b834f1\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\betya\.gradle\caches\transforms-3\da39e94b0f0ba336182cebd1e0b834f1\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\677cd13cdcd94f94609557ca1a8b182d\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\677cd13cdcd94f94609557ca1a8b182d\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\16215222eaa93d7fb227d1c681926e80\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\16215222eaa93d7fb227d1c681926e80\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\677cd13cdcd94f94609557ca1a8b182d\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:12:9-41
+	android:exported
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:16:9-32
+	android:roundIcon
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:15:9-40
+activity#imrankst1221.website.in.webview.MainActivity
+ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\effec0a28f9ae8bbc28c1a3d2093ec5e\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\effec0a28f9ae8bbc28c1a3d2093ec5e\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\6591de0cad8c3f5eadbdf0fe88cc8136\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\6591de0cad8c3f5eadbdf0fe88cc8136\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\f78b232fd09b18252200861a88b55b69\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\f78b232fd09b18252200861a88b55b69\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\betya\.gradle\caches\transforms-3\da39e94b0f0ba336182cebd1e0b834f1\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\betya\.gradle\caches\transforms-3\da39e94b0f0ba336182cebd1e0b834f1\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\fafccb7dcf9b6ccedfb6a66cdfa9de6f\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\fafccb7dcf9b6ccedfb6a66cdfa9de6f\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\29d88ab1cf18f15cc043e76fd04324a8\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\29d88ab1cf18f15cc043e76fd04324a8\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\9a21f6acb36712dac7edf1807eb87a52\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\9a21f6acb36712dac7edf1807eb87a52\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\d1de12bdcf86ec48e152a11074442da3\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\d1de12bdcf86ec48e152a11074442da3\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\3d542e3babf6bad60401c0e5867eb382\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\3d542e3babf6bad60401c0e5867eb382\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\0382b1ddfa52fe135241f6e2b2b1741b\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\0382b1ddfa52fe135241f6e2b2b1741b\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\1715eeec570b990c34ccaa1b7bf407f8\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\1715eeec570b990c34ccaa1b7bf407f8\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\656e48d32e85a6c2ae607a0b2b9f6db5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\656e48d32e85a6c2ae607a0b2b9f6db5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\492989e70df4ce7eecd3dec38fdd8a86\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\492989e70df4ce7eecd3dec38fdd8a86\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\832876b40af826f7430bfcb5c9db478c\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\832876b40af826f7430bfcb5c9db478c\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\9f3932981a4426c38a70290d55c2a63d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\9f3932981a4426c38a70290d55c2a63d\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\f6f7062eaa4db3aa4070e42dfc9761e3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\f6f7062eaa4db3aa4070e42dfc9761e3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\02d099f999e83a385ed4ce5300136033\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\02d099f999e83a385ed4ce5300136033\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\fd813baf15dada295e54894e81e80eea\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\fd813baf15dada295e54894e81e80eea\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\eec0af2011cc1fc3c18c89caf57b72ca\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\eec0af2011cc1fc3c18c89caf57b72ca\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\1528379d2a43582d7bee83e7903c9130\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\1528379d2a43582d7bee83e7903c9130\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\677cd13cdcd94f94609557ca1a8b182d\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\677cd13cdcd94f94609557ca1a8b182d\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\085bb44f289beb91488da2ae5c5052f7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\085bb44f289beb91488da2ae5c5052f7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\16215222eaa93d7fb227d1c681926e80\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\16215222eaa93d7fb227d1c681926e80\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\f984cfb72730b0fa5fc78650c64a54b9\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\f984cfb72730b0fa5fc78650c64a54b9\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\9772215b0fd6d90a04270271a7baf92e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\9772215b0fd6d90a04270271a7baf92e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\f81e7bd30697b8b625ee8e6f86d8a423\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\f81e7bd30697b8b625ee8e6f86d8a423\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\17da243e9af8be3297a4ff5b74a30f3b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\17da243e9af8be3297a4ff5b74a30f3b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\82789f4ee1187a22f807af5bf4ca2fe6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\82789f4ee1187a22f807af5bf4ca2fe6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\5dac6132421ec65c8d69fa4033f973b1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\betya\.gradle\caches\transforms-3\5dac6132421ec65c8d69fa4033f973b1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\a40a63588715de069c3acbd0b01e9c66\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\a40a63588715de069c3acbd0b01e9c66\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\19eff2f8dd0c0db011c11af597dbd73f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\19eff2f8dd0c0db011c11af597dbd73f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\c3b275f233a5206977e4ed051d72afe6\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\c3b275f233a5206977e4ed051d72afe6\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\376a6260a84af5c00dd3da7dda7a07c4\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\betya\.gradle\caches\transforms-3\376a6260a84af5c00dd3da7dda7a07c4\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-WebView-in-Kotlin-master\app\src\main\AndroidManifest.xml
